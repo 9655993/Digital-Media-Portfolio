@@ -1,5 +1,7 @@
 ## WhAts good
 
+![Adobe colors](https://github.com/9655993/Digital-Media-Portfolio/blob/gh-pages/Raster/Screen%20Shot%202020-08-26%20at%2010.19.54%20AM.png?raw=true)
+
 You can use the [editor on GitHub](https://github.com/9655993/Digital-Media-Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
